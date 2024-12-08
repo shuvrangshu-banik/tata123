@@ -1,0 +1,42 @@
+<html>
+<body background="shutterstock_735034657.jpg">
+<br>
+<br>
+<font size="10"><center>SIR RATAN TATA</center></font>
+<br>
+<center><img src="Screenshot_20241202-214155.webp"></center>
+<br>
+<center><h2>"Take the stones people throw at you,
+<br>
+And use them to build a monument."</h2></center>
+<br>
+<font size="5">TO get information about SIR RATAN TATA's education click on the link in the below</font>
+<br>
+<center><a href="education.html">https://ratantataeducation</a></center>
+<br>
+<font size="5">TO get information about SIR RATAN TATA's contribution click on the link in the below</font>
+<br>
+<center><a href="contribution.html">https://ratantatacontribution</a></center>
+<br>
+<font size="5">TO get information about SIR RATAN TATA's early life click on the link in the below</font>
+<br>
+<center><a href="earlylife.html">https://ratantataearlylife</a></center>
+<br>
+<font size="5">TO get information about SIR RATAN TATA's awards click on the link in the below</font>
+<br>
+<center><a href="awards.html">https://ratantataawards</a></center>
+<br>
+<font size="5">TO get information about SIR RATAN TATA's Quotes click on the link in the below</font>
+<br>
+<center><a href="quotes.html">https://ratantataquotes</a></center>
+<br>
+<font size="5">TO get information about SIR RATAN TATA's personal life click on the link in the below</font>
+<br>
+<center><a href="carrer.html">https://ratantatacarrer</a></center>
+<br>
+<font size="5">To know who had done the project click on the link below </font>
+<br>
+<center><a href="creater.html">https://ratantataprojectcreater</a></center>
+
+
+</body></html>

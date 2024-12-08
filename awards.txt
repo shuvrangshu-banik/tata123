@@ -1,0 +1,30 @@
+<html>
+<body background="68369ec281338eedee0ac5f7c092dc49.jpg">
+<u><center><h1> SIR RATAN TATA'S AWARDS</h1></center></u>
+<font size="6">
+<ol>
+<li>Padma Bhushan (2000)</li>
+<li>Padma Vibhushan (2008)</li>
+<li>Honorary Knight Commander of the Order of the British Empire (KBE) (2009)</li>
+<li>Oslo Business for Peace Award (2010)</li>
+<li>Carnegie Medal of Philanthropy (2007)</li>
+<li>Ernst & Young Entrepreneur of the Year – Lifetime Achievement Award (2004)</li>
+<li>Honorary Fellowship of The London School of Economics and Political Science (2007)</li>
+<li>Honorary Doctorate of Business Administration from Ohio State University (2001)</li>
+<li>Honorary Doctor of Science by the Indian Institute of Technology (IIT), Bombay (2005)</li>
+<li>Global Indian of the Year by NDTV (2010)</li>
+<li>Honorary Doctorate from the University of Cambridge (2014)</li>
+<li>Sayaji Ratna Award by Baroda Management Association (2013)</li>
+<li>Life Time Achievement Award by the Rockefeller Foundation (2012)</li>
+<li>Honorary Doctorate from the University of Amsterdam (2010)</li>
+<li>Business Leader of the Year by Economic Times Awards (1998)</li>
+</ol>
+<center><img src="Honors-and-awards-of-tata-13angle.jpg"></center>
+</font>
+</body>
+</html>
+
+
+
+
+
